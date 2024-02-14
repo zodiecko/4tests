@@ -1,1 +1,2 @@
-Was this commit signed?
+Was this commit signed? No
+git was not configured to sign and I did not especify on command
